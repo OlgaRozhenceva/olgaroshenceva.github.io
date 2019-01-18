@@ -1,0 +1,281 @@
+body {
+	font-family: Arial, sans-serif;
+	padding: 0;
+	margin: 0;
+	color: #222222;
+}
+
+.clearfix:after {
+	content:'';
+	display: table;
+	width: 100%;
+	clear: both;
+}
+
+div {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: Arial, sans-serif;
+	padding: 0;
+	margin: 0;
+}
+
+header {
+	background: #fff;
+	height: 150px;
+
+}
+.container{
+	width: 900px;
+	margin: 0 auto; 
+}
+
+.kart{
+	background: url(../img/SPA.jpg) no-repeat center top / cover;
+	height: 600px;
+}
+
+.kart1{
+	background: url(../img/kek.png) no-repeat center top / cover;
+	height: 590px;
+}
+
+.kart2{
+	background: url(../img/tex.jpg) no-repeat center top / cover;
+	height: 504px;
+}
+
+nav {
+	margin-top: 65px;
+}
+
+.menu li {
+	float: left;
+	display: block;
+	margin-right: 60px; 
+}
+
+.menu a {
+	color: #20;
+	text-decoration: none;
+	text-decoration: uppercase;
+	font-size: 25px;
+}
+
+.menu {
+	padding: 0;
+	margin: 0;
+	display: block;
+}
+
+h1	{
+	text-align: center;
+	font-size: 50px
+}
+
+.clearfix:after {
+	content:'';
+	display: table;
+	width: 100%;
+	clear: both;
+	}
+
+	.button {
+	background: #fed136;
+	color: #484543;
+	border-radius: 3px;
+	display: block;
+	width: 240px;
+	padding: 20px 0;
+	margin: 0 auto;
+	text-decoration: none;
+	text-align: center;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 18px;
+	margin-top: 50px;
+}
+
+.title {
+	padding-top: 115px;
+}
+
+.title h2 {
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+	text-transform: uppercase;
+	margin: 0;
+}
+
+.title h3 {
+	font-size: 45px;
+	font-weight: bold;
+	text-align: center;
+    text-transform: uppercase;
+	font-family: Trattatello, fantasy; serif;
+	margin: 0;
+}
+
+.title h5 {
+	font-size: 15px;
+	font-weight: bold;
+	margin-top: 30px;
+	text-align: center;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	color: #777777;
+
+}
+
+.title p {
+	color: #777777;
+	text-align: center;
+	font-size: 16px;
+	margin-top: 5px;
+}
+
+.services {
+	margin-top: 80px;
+}
+
+.services__item	{
+	width: 250px;
+	float: left;
+	text-align: center;
+}
+
+.services__item h3 {
+	font-size: 18px;
+	margin-bottom: 5px;
+}
+
+.services__item p {
+	color: #777777;
+	font-size: 14px;
+	line-height: 1.55em;
+}
+.services__item:second-child {
+	float: mid;
+}
+
+.services__item:last-child {
+	float: right;
+}
+
+.services__item:nth-child(2) {
+	margin-left: 60px;
+}
+
+#services {
+	padding-bottom: 80px;
+}
+
+h4 {
+	margin-top: 3px;
+	font-size: 15px;
+	text-align: center;
+	border-radius: 3px;
+}
+
+.image1{
+	background: url(../img/AboutUs1.jpg) no-repeat center top / cover;
+	height: 150px;
+
+}
+.container1{
+	padding-top: 50px;
+	width: 1170px;
+	margin: 0 auto; 
+}
+.title1 {
+	padding-top: 10px;
+}
+.title1 h2 {
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+	text-transform: uppercase;
+	margin: 0;
+}
+
+.title1 h3 {
+	font-size: 45px;
+	font-weight: bold;
+	text-align: center;
+	font-family: Trattatello, fantasy; serif;
+	margin: 0;
+}
+
+.title1 h5 {
+	font-size: 15px;
+	font-weight: bold;
+	margin-top: 30px;
+	text-align: center;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	color: #777777;
+
+}
+
+.title1 p {
+	color: #777777;
+	text-align: center;
+	font-size: 16px;
+	margin-top: 5px;
+}
+.image2{
+	background: url(../img/AboutUs2.jpg) no-repeat center top / cover;
+	height: 400px;
+
+}
+
+h6{
+	padding-top: 100px;
+	width: 700px;
+	margin: 0 auto; 
+	font-size: 25px;
+	font-weight: bold;
+	text-align: center;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	color: #ffffff;
+}
+.wpb_video_wrapper { 
+    position: absolute; 
+}
+    .center {
+      margin: 0 auto;
+    }
+
+.image3{
+	background: url(../img/services.jpg) no-repeat center top / cover;
+	height: 450px;
+
+}
+.container2{
+	width: 1170px;
+	margin: 0 auto; 
+}
+.image5{
+	background: url(../img/contacts.png) no-repeat center top / cover;
+	height: 382px;
+
+}
+.image6{
+	background: url(../img/certificate.jpg) no-repeat center top / cover;
+	height: 364px;
+
+}
+.title1 h6 {
+	padding-top: 50px;
+	font-size: 45px;
+	font-weight: bold;
+	text-align: center;
+	font-family: Trattatello, fantasy; serif;
+	margin: 0;
+}
+.services__item1	{
+	width: 180px;
+	float: left;
+	text-align: center;
+}
